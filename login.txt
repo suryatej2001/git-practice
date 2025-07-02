@@ -1,2 +1,1 @@
 "Login functionality under development" 
-"Signup functionality under development" 
