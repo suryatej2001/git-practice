@@ -1,1 +1,2 @@
 "Login functionality under development" 
+"Register functionality under development" 
